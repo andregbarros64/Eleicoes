@@ -40,6 +40,10 @@ public class PesquisasQuestionarios {
 	public void setCpfEleitor(String cpfEleitor) {
 		this.cpfEleitor = cpfEleitor;
 	}
+	public void setId_candidato_fk(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 }

@@ -37,8 +37,12 @@ public class Pesquisas {
 	public Date getDataPesquisa() {
 		return dataPesquisa;
 	}
-	public void setDataPesquisa(Date dataPesquisa) {
-		this.dataPesquisa = dataPesquisa;
+	public void setDataPesquisa(Date string) {
+		this.dataPesquisa = string;
+	}
+	public void setDataPesquisa(String text) {
+		// TODO Auto-generated method stub
+		
 	}
 	
 
