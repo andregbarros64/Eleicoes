@@ -12,11 +12,12 @@ import java.sql.SQLException;
 import model.Partidos;
 
 public class PartidosDAO {
-	
+	//teste Git
 	
 		private static PartidosDAO instance;
 		private List<Partidos> listaPartidos =  new ArrayList<>();
 		private Connection con = ConnectionUtil.getConnection();
+		
 		
 		public static PartidosDAO getInstance() {
 		
