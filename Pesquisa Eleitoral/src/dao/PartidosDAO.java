@@ -12,7 +12,8 @@ import java.sql.SQLException;
 import model.Partidos;
 
 public class PartidosDAO {
-	//teste Git
+	
+	//teste
 	
 		private static PartidosDAO instance;
 		private List<Partidos> listaPartidos =  new ArrayList<>();
